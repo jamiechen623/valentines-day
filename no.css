@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 250px
+}
+
+.button{
+    display:inline-block;
+    padding:5px 15px;
+    background-color:#cdcdcd;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 80px;
+    margin-bottom: 8px;
+}

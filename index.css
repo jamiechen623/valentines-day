@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    align-items: center;
+}
+
+.button{
+    display:inline-block;
+    padding:5px 10px;
+    max-width: 50px;
+    background-color:#cdcdcd;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.pinkBox {
+    background-color: #ff93a3;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px; 
+}
